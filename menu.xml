@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <menu>
-    <categoty name="Coffee">
+    <category name="Coffee">
         <item>
-            <listing>Espresso </listing>
+            <listing>Espresso</listing>
             <price>3.00 </price>
         </item>
         <item>
-            <listing>Latte </listing>
-            <price>3.50 </price>
+            <listing>Latte</listing>
+            <price>3.50</price>
         </item>
         <item decaf="true">
-            <listing>Americano </listing>
-            <price>3.20 </price>
+            <listing>Americano</listing>
+            <price>3.20</price>
         </item>
-    </categoty>
-    <categoty name="Frappe">
+    </category>
+    <category name="Frappe">
         <item>
-            <listing>Salted Caramel Frappé </listing>
-            <price>4.50 </price>
+            <listing>Salted Caramel Frappé</listing>
+            <price>4.50</price>
         </item>
         <item>
-            <listing>Pumpkin Spice Frappé </listing>
-            <price>5.00 </price>
+            <listing>Pumpkin Spice Frappé</listing>
+            <price>5.00</price>
         </item>
         <item decaf="true">
-            <listing>Mint Chocolate Frappé </listing>
-            <price>5.00 </price>
+            <listing>Mint Chocolate Frappé</listing>
+            <price>5.00</price>
         </item>
-    </categoty>
-    <categoty name="Iced Coffee">
+    </category>
+    <category name="Iced Coffee">
         <item>
-            <listing>Iced Toasted Vanilla </listing>
-            <price>4.00 </price>
+            <listing>Iced Toasted Vanilla</listing>
+            <price>4.00</price>
         </item>
         <item>
-            <listing>Iced Shaken Espresso </listing>
-            <price>3.00 </price>
+            <listing>Iced Shaken Espresso</listing>
+            <price>3.00</price>
         </item>
         <item decaf="true">
-            <listing>Iced Flat White </listing>
-            <price>4.10 </price>
+            <listing>Iced Flat White</listing>
+            <price>4.10</price>
         </item>
-    </categoty>
-    <categoty name="Tea">
+    </category>
+    <category name="Tea">
         <item>
-            <listing>Mint </listing>
-            <price>2.50 </price>
+            <listing>Mint</listing>
+            <price>2.50</price>
         </item>
         <item>
-            <listing>Green Tea </listing>
-            <price>3.00 </price>
+            <listing>Green Tea</listing>
+            <price>3.00</price>
         </item>
         <item decaf="true">
-            <listing>Brown Tea </listing>
-            <price>3.00 </price>
+            <listing>Brown Tea</listing>
+            <price>3.00</price>
         </item>
-    </categoty>
-    <categoty name="Deserts">
+    </category>
+    <category name="Deserts">
         <item>
-            <listing>Chocolate Brownie </listing>
-            <price>4.50 </price>
-        </item>
-        <item>
-            <listing>Vanilla Cheescake </listing>
-            <price>4.50 </price>
+            <listing>Chocolate Brownie</listing>
+            <price>4.50</price>
         </item>
         <item>
-            <listing>Carrot Cake </listing>
-            <price>5.00 </price>
+            <listing>Vanilla Cheescake</listing>
+            <price>4.50</price>
         </item>
-    </categoty>
+        <item>
+            <listing>Carrot Cake</listing>
+            <price>5.00</price>
+        </item>
+    </category>
 
 </menu>
