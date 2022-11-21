@@ -3,7 +3,7 @@
     <category name="Coffee">
         <item>
             <listing>Espresso</listing>
-            <price>3.00 </price>
+            <price>3.10</price>
         </item>
         <item>
             <listing>Latte</listing>
@@ -35,7 +35,7 @@
         </item>
         <item>
             <listing>Iced Shaken Espresso</listing>
-            <price>3.00</price>
+            <price>3.80</price>
         </item>
         <item decaf="true">
             <listing>Iced Flat White</listing>
@@ -48,12 +48,12 @@
             <price>2.50</price>
         </item>
         <item>
-            <listing>Green Tea</listing>
-            <price>3.00</price>
+            <listing>Green</listing>
+            <price>2.70</price>
         </item>
         <item decaf="true">
-            <listing>Brown Tea</listing>
-            <price>3.00</price>
+            <listing>Breakfast</listing>
+            <price>2.50</price>
         </item>
     </category>
     <category name="Deserts">
@@ -62,7 +62,7 @@
             <price>4.50</price>
         </item>
         <item>
-            <listing>Vanilla Cheescake</listing>
+            <listing>Vanila Cheescake</listing>
             <price>4.50</price>
         </item>
         <item>
@@ -70,5 +70,4 @@
             <price>5.00</price>
         </item>
     </category>
-
 </menu>
